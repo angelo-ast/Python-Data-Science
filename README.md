@@ -1,4 +1,4 @@
-# Python-Data-Science-Work
+# Data Science in Python
 Uploading Python code applied on openly available data sources.
 
 Fast access links to Jupyter Notebooks:
