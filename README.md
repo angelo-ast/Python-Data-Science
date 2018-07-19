@@ -1,5 +1,5 @@
 # Data Science in Python
-Uploading Python code applied on openly available data sources.
+Uploading projects in Python using public/anonymised data sources.
 
 Fast access links to Jupyter Notebooks:
 1) Customer Churn application: https://github.com/angelo-ast/Python-Data-Science/blob/master/CustomerChurn-xGboost/MobileCChurn.ipynb
